@@ -7,12 +7,23 @@ git init - инициализация
 .git - создается скрытая папка
 
 git add <file_name> <.> - для проверки статуса
-git commit -m ' -(фиксация(комментарии) желательно на английском) он фиксирует файл и создает хэш-сумму
+git commit -m '  -(фиксация(комментарии) желательно на английском) он фиксирует файл и создает хэш-сумму
 
-git remote add origin git@github.com: 
+git remote add origin git@github.com:Nuraiym000/nurrra.git
 
 git clone - просто клон проекта из удаленного сервера GitHub
+
+git config --global user.name 'nuraiym'   
+git config --global user.email nurajymmm1@gmail.com  
+
+git config --local user.name 'nuraiym'     -чтобы поменять
+
+git push origin master - после origin передавать ветку
 
 
 (git remote --help)
 (git push origin master)
+
+jslmvl'
+zxbczbk
+kjklj
